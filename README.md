@@ -62,6 +62,7 @@ int main(void)
 
 
 
+<img width="611" alt="os ex2 1" src="https://github.com/Mythili7339267708/Linux-Process-API-fork-wait-exec/assets/144260246/42515cfa-59c7-4140-ad69-4e1c68ac20e9">
 
 
 
@@ -112,6 +113,7 @@ int main() {
 
 
 
+<img width="577" alt="os ex2 2" src="https://github.com/Mythili7339267708/Linux-Process-API-fork-wait-exec/assets/144260246/94e2bc3d-19f4-42ea-a119-7a94833e74ed">
 
 
 
@@ -178,6 +180,7 @@ int main() {
 
 
 
+<img width="464" alt="os ex 2 3" src="https://github.com/Mythili7339267708/Linux-Process-API-fork-wait-exec/assets/144260246/7957e28c-7bc3-475f-a0f1-f9ddee9d2849">
 
 
 
